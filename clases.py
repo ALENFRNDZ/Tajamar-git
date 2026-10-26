@@ -1,2 +1,3 @@
 edad = input("¿cuántos años tienes?")
-print("Edad ingresada",edad)
+nombre = input("¿cual es tu nombre?")
+print(f"La edad de {nombre} es {edad}")
